@@ -31,5 +31,15 @@ window.churchData = {
     "Nokuthula Ledwaba — Additional Board Member",
     "Nomvula Mulaudzi — Additional Board Member",
     "Pfunzo Nematandani — Deputy Secretary"
-  ]
+  ],
+  "contact": {
+    "address": "Kutama Tshikwarani\nKutama\n0940",
+    "phone": "+27636202691",
+    "phoneHref": "+27636202691",
+    "facebookUrl": "",
+    "facebookLabel": "",
+    "youtubeUrl": "",
+    "youtubeLabel": "",
+    "email": ""
+  }
 };
