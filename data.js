@@ -35,7 +35,7 @@ window.churchData = {
   "contact": {
     "address": "Kutama Tshikwarani\nKutama\n0940",
     "phone": "+27636202691",
-    "phoneHref": "+27636202691",
+    "phoneHref": "tel:+27636202691",
     "facebookUrl": "",
     "facebookLabel": "",
     "youtubeUrl": "",
